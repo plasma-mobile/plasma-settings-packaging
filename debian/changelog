@@ -1,0 +1,29 @@
+plasma-settings (0.0.1ubuntu4) vivid; urgency=medium
+
+  * add deps
+
+ -- Boudewijn Rempt <boud@kde.org>  Fri, 05 Jun 2015 08:03:51 +0000
+
+plasma-settings (0.0.1ubuntu3) vivid; urgency=medium
+
+  *  add deps
+
+ -- Boudewijn Rempt <boud@kde.org>  Fri, 05 Jun 2015 07:57:36 +0000
+
+plasma-settings (0.0.1ubuntu2) vivid; urgency=medium
+
+  * fix dependency 
+
+ -- Boudewijn Rempt <boud@kde.org>  Fri, 05 Jun 2015 07:48:43 +0000
+
+plasma-settings (0.0.1ubuntu1) vivid; urgency=medium
+
+  * Add ecm as dependency
+
+ -- Boudewijn Rempt <boud@kde.org>  Fri, 05 Jun 2015 07:37:38 +0000
+
+plasma-settings (0.0.1) vivid; urgency=medium
+
+  * Initial release. 
+
+ -- Boudewijn Rempt <boud@kde.org>  Wed, 05 June 2015 09:50:41 +0000
