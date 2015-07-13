@@ -39,7 +39,13 @@ Vcs-Git: https://github.com/plasma-mobile/plasma-settings-packaging.git
 
 Package: plasma-settings
 Architecture: any
-Depends: plasma-framework, plasma-mobile, ${misc:Depends}, ${shlibs:Depends}
+Depends: kaccounts-integration,
+         kaccounts-providers,
+         plasma-framework,
+         plasma-mobile,
+         qml-module-org-kde-kaccounts,
+         ${misc:Depends},
+         ${shlibs:Depends}
 Description: Plasma phone settings application
  The settings application and a few modules for it.
 
