@@ -50,6 +50,7 @@ Depends: kaccounts-integration,
          plasma-framework,
          plasma-mobile,
          qml-module-org-kde-kaccounts,
+         qml-module-ubuntu-onlineaccounts,
          ${misc:Depends},
          ${shlibs:Depends}
 Description: Plasma phone settings application
