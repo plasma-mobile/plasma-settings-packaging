@@ -47,7 +47,9 @@ Architecture: any
 Depends: kaccounts-integration,
          kaccounts-providers,
          plasma-framework,
+         plasma-mobile,
          qml-module-org-kde-kaccounts,
+         qml-moudle-org-kde-kcm,
          qml-module-ubuntu-onlineaccounts,
          ${misc:Depends},
          ${shlibs:Depends}
